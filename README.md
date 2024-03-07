@@ -1,4 +1,4 @@
-Saya Nabilla Assyfa Ramadhani [2205297] mengerjakan Latihan dalam mata Desain dan Pemograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
+Saya Nabilla Assyfa Ramadhani [2205297] mengerjakan Latihan dalam mata kuliah Desain dan Pemograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
 <br><br>
 # Desain Kelas
@@ -87,13 +87,33 @@ saya juga menggunakan composite untuk menghubungkan antara tempat parkir dengan 
 
 
 # Penjelasan alur
+#### Penjelasan alur C++
 1. User diminta untuk memilih program yang akan dijalankan, adapun urutan programnya adalah sebagai berikut:<br>
    a. Memilih nomor 1 untuk memasukan data parkir mobil <br>
    b. Memilih nomor 2 untuk memasukan data parkir motor <br>
    c. Memilih nomor 3 untuk mengakhiri program pemasukan data <br>
 3. Jika user memilih program nomor 1 dan 2, user akan diminta mengisi data kendaraan yang diparkirkan, baik itu data kendaraan mobil maupun motor. <br> 
 4. Jika tempat parkir sudah melebihi kapasitas, maka user tidak bisa mengisi program pengisian data. Sehingga akan langsung keluar dari program pemasukan data, dan menampilkan data kendaraan yang terparkir. <br>
-5. Jika user memilih program nomor 3, maka program pemasukkan data akan selesai kemudian menampilkan data kendaraan yang terparkir.
+5. Jika user memilih program nomor 3, maka program pemasukkan data akan selesai kemudian menampilkan data kendaraan yang terparkir.<br>
+
+#### Penjelasan alur Python
+1. User diminta untuk memilih program yang akan dijalankan, adapun urutan programnya adalah sebagai berikut:<br>
+   a. Memilih nomor 1 untuk memasukan data parkir mobil <br>
+   b. Memilih nomor 2 untuk memasukan data parkir motor <br>
+   c. Memilih nomor 3 untuk mengeluarkan kendaraan <br>
+   d. Memilih nomor 4 untuk menampilkan data <br>
+   c. Memilih nomor 5 untuk mengakhiri program <br>
+2. Jika user memilih program nomor 1 dan 2, user akan diminta mengisi data kendaraan yang diparkirkan.  Jika tempat parkir sudah melebihi kapasitas, maka user tidak bisa mengisi program pengisian data. Sehingga akan langsung keluar dari program pemasukan data.<br>
+3. Jika user memilih program nomor 3, user akan diminta untuk memilih kendaraan apa yang akan keluar dari parkiran, adapun urutan nya sebagai berikut:<br>
+   a. Memilih 'C' jika mobil yang keluar <br>
+   b. Memilih 'M' jika motor yang keluar <br>
+   c. Memilih 'K' untuk keluar dari program <br>
+   Setelah user memilih kendaraan yang akan keluar, user akan diminta untuk memasukkan nomor plat kendaraan yang keluar, agar data kendaraan dapat terhapus.<br>
+4. Jika user memilih nomor 4, maka user akan diminta untuk memilih jenis kendaraan yang datanya akan ditampilkan. Adapun urutannya sebagai berikut:<br>
+   a. Memilih 'PC' untuk menampilkan data mobil <br>
+   b. Memilih 'PM' untuk menampilkan data motor <br>
+   c. Memilih 'K' untuk keluar dari program <br>
+5. Jika user memilih nomor 5, maka program akan selesai dan keluar.<br>
 
 
 # Dokumentasi Program
